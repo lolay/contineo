@@ -1,0 +1,6 @@
+Lolay Open Source Library for Inspecting the Network on iOS.
+This based off the Apple reachability example
+http://developer.apple.com/library/ios/#samplecode/Reachability/Introduction/Intro.html
+
+It is updated for ARC as well as has been renamed to not conflict on a project
+already using it.
